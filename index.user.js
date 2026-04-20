@@ -117,7 +117,7 @@
 // @run-at      document-start
 // @antifeature referral-link
 // @downloadURL https://cdn.jsdelivr.net/gh/Xanthella/All-in-One-Video-Downloader@main/index.user.js
-// @updateURL   https://cdn.jsdelivr.net/gh/Xanthella/All-in-One-Video-Downloader@main/index.mate.js
+// @updateURL   https://cdn.jsdelivr.net/gh/Xanthella/All-in-One-Video-Downloader@main/index.meta.js
 // @grant       GM_openInTab
 // @grant       GM.openInTab
 // @grant       GM_xmlhttpRequest
