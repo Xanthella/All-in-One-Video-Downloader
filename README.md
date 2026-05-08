@@ -10,6 +10,9 @@ After installing the script, click the link below to test the functionality.
 https://www.youtube.com/watch?v=t26iooY3PAo
 https://youtube.com/shorts/uE00csJFxPo
 
+<b>Facebook</b>
+https://www.facebook.com/reel/943111488364734
+
 <b>Tiktok/Douyin</b>
 https://www.tiktok.com/@fanzachchoiasmrr/video/7594631105773423885?is_from_webapp=1&sender_device=pc
 https://www.douyin.com/jingxuan?modal_id=7578414844047576339
@@ -36,14 +39,17 @@ https://www.xiaohongshu.com/explore/67e884ab000000001d01f02d?xsec_token=ABR9vc7x
 <b>Youtube</b>
 <img src="https://xanthella.github.io/images/youtube.png" width="80%"/>
 
+<b>Facebook</b>
+<img src="https://xanthella.github.io/images/facebook.png" width="80%"/>
+
 <b>Tiktok</b>
-<img src="https://xanthella.github.io/images/tiktok.png" width="80%"/>
+<img src="https://xanthella.github.io/images/tiktok-new.png" width="80%"/>
 
 <b>X/Twitter</b>
 <img src="https://xanthella.github.io/images/x.png" width="80%"/>
 
 <b>Instagram</b>
-<img src="https://xanthella.github.io/images/instagram.png" width="80%"/>
+<img src="https://xanthella.github.io/images/instagram-new.png" width="80%"/>
 
 <b>Threads</b>
 <img src="https://xanthella.github.io/images/threads.png" width="80%"/>
