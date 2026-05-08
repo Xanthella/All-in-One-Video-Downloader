@@ -31,25 +31,25 @@ https://www.threads.com/@binhsapphireia/post/DTjzB_RETL3?xmt=AQF08F09L80sNhKbd9S
 <b>XiaoHongShu</b>
 https://www.xiaohongshu.com/explore/67e884ab000000001d01f02d?xsec_token=ABR9vc7xZW-eCvefXvmiqKRT8rP3-G1mey22eq8Bd_ewM=&xsec_source=pc_search&source=web_explore_feed
 
-<b>Automatic Download:</b>
+<b>Automatic Download:</b>   
 <img src="https://xanthella.github.io/images/downloader_start.png" width="80%"/>
 
 <img src="https://xanthella.github.io/images/downloader_progress.png" width="80%"/>
 
-<b>Youtube</b>
+<b>Youtube</b>   
 <img src="https://xanthella.github.io/images/youtube.png" width="80%"/>
 
-<b>Facebook</b>
+<b>Facebook</b>   
 <img src="https://xanthella.github.io/images/facebook.png" width="80%"/>
 
-<b>Tiktok</b>
+<b>Tiktok</b>   
 <img src="https://xanthella.github.io/images/tiktok-new.png" width="80%"/>
 
-<b>X/Twitter</b>
+<b>X/Twitter</b>   
 <img src="https://xanthella.github.io/images/x.png" width="80%"/>
 
-<b>Instagram</b>
+<b>Instagram</b>   
 <img src="https://xanthella.github.io/images/instagram-new.png" width="80%"/>
 
-<b>Threads</b>
+<b>Threads</b>   
 <img src="https://xanthella.github.io/images/threads.png" width="80%"/>
